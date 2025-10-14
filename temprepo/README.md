@@ -64,9 +64,8 @@ The presentation/slides are prepared using `marp` (an extantion to Markdown perm
 `marp` is fully integrated to VisualCode:
 
 - Get *Marp for VS Code* extention
-- On `VS Code parameters > working space > Marp for VS Code` you can add elements on `Markdown › Marp: Themes` : `style/imt-slide.css`.
+- On `VS Code parameters > working space > Marp for VS Code` you can add elements on `Markdown › Marp: Themes` : `style/slides.css`.
 - Also authorise html tag. activate `marp: Enable HTML` in settings.
-
 
 ### Overleaf Web-Editor
 
