@@ -85,6 +85,10 @@ img {
     /*width: 840pt; */
     margin: 0pt;
 }
+div{
+    margin: 0px;
+    padding: 0px;
+}
 
 .line>div{
     display: inline-block;
@@ -101,4 +105,16 @@ img {
 
 .one3 {
     width: 358px;
+}
+
+.two3 {
+    width: 742px;
+}
+
+.one4 {
+    width: 262px;
+}
+
+.tree4 {
+    width: 833px;
 }

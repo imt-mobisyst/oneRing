@@ -6,9 +6,9 @@ backgroundImage: url('../style/background.svg')
 ---
 <!-- --------------------------------------------------------------- -->
 
-# A Wondering beautifull<br />presentation title
+# An Incrediblae Beautifull<br />Presentation Title
 
-### With a small sub-tittle
+### With a cool sub-tittle
 
 <br />
 
@@ -45,3 +45,131 @@ And 1 more line.
 - **An example of**
 - **Table of contents**
 - **For the presentation**
+
+
+---
+<!-- --------------------------------------------------------------- -->
+
+## A double slide
+
+<div class="line">
+<div class="one2">
+
+## Div. 1
+
+1. One
+2. Two
+3. Tree
+
+</div>
+<div class="one2">
+
+## Div. 2
+
+![](./img.svg)
+
+</div>
+</div>
+
+<!-- --------------------------------------------------------------- -->
+
+---
+
+## Let go on a triple
+
+<div class="line">
+<div class="one3">
+
+## Div. 1
+
+1. One
+2. Two
+3. Tree
+
+</div>
+<div class="one3">
+
+## Div. 2
+
+![](./img.svg)
+
+</div>
+<div class="one3">
+
+#### Div. 3
+
+</div>
+</div>
+
+<!-- --------------------------------------------------------------- -->
+
+---
+
+## And any combinaison
+
+<div class="line">
+<div class="one3" style="background-color:rgba(255, 99, 71, 0.5);">
+
+## 1 on 3
+
+</div>
+<div class="one3">
+
+## 1 on 3
+
+</div>
+<div class="one3">
+
+## 1 on 3
+
+</div>
+</div>
+
+<div class="line">
+<div class="two3">
+
+## 2 on 3
+
+</div>
+<div class="one3">
+
+## 1 on 3
+
+</div>
+</div>
+
+<div class="line">
+<div class="one4">
+
+## 1 on 4
+
+</div>
+<div class="one4">
+
+## 1 on 4
+
+</div>
+<div class="one4">
+
+## 1 on 4
+
+</div>
+<div class="one4">
+
+## 1 on 4
+
+</div>
+</div>
+
+<div class="line">
+<div class="one4">
+
+## 1 on 4
+
+</div>
+<div class="tree4">
+
+## 3 on 4
+
+</div>
+</div>
