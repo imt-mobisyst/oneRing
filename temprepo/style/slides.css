@@ -11,17 +11,30 @@
     --color-black: rgb(0,0,0);
 }
 
+section{
+    padding-top: 130px;
+/*    background-color: var(--color-contrast);*/
+}
+
+
 h1 { /* presentation title */
     color: var(--color-dark);
 }
 
 h2 { /* frame title */
-    /* width: 800pt; */
-    margin: 0px 0px 40px 0px;
-    padding: 20px 20px;
     font-size: 28pt;
-    background-color: var(--color-grey);
+    padding: 20px 20px;
     color: var(--color-dark);
+    border-bottom: 2px solid var(--color-grey);
+}
+
+section>h2:first-of-type { /* frame title */
+    position: fixed;
+    top: 18px;
+    right: 12px;
+    width: 1210px;
+    padding: 20px 20px;
+    background-color: var(--color-grey);
 }
 
 h3 { /* in frame titles */
@@ -66,6 +79,7 @@ img {
     display: block;
 }
 
+/*To split in column...*/
 .line{
     width: 1124px;
     /*width: 840pt; */
