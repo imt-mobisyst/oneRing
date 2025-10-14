@@ -108,7 +108,7 @@ And 1 more line.
 ## And any combinaison
 
 <div class="line">
-<div class="one3" style="background-color:rgba(255, 99, 71, 0.5);">
+<div class="one3" style="background-color:rgb(255, 179, 141);">
 
 ## 1 on 3
 
@@ -118,7 +118,7 @@ And 1 more line.
 ## 1 on 3
 
 </div>
-<div class="one3">
+<div class="one3" style="background-color:rgb(55, 99, 171);">
 
 ## 1 on 3
 
@@ -126,7 +126,7 @@ And 1 more line.
 </div>
 
 <div class="line">
-<div class="two3">
+<div class="two3" style="background-color:rgb(155, 199, 155);">
 
 ## 2 on 3
 
@@ -149,7 +149,7 @@ And 1 more line.
 ## 1 on 4
 
 </div>
-<div class="one4">
+<div class="one4" style="background-color:rgb(255, 179, 141);">
 
 ## 1 on 4
 
@@ -162,7 +162,7 @@ And 1 more line.
 </div>
 
 <div class="line">
-<div class="one4">
+<div class="one4" style="background-color:rgb(55, 99, 171);">
 
 ## 1 on 4
 
