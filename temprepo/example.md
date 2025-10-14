@@ -6,7 +6,7 @@ backgroundImage: url('../style/background.svg')
 ---
 <!-- --------------------------------------------------------------- -->
 
-# An Incrediblae Beautifull<br />Presentation Title
+# An Incredibly Beautiful<br />Presentation Title
 
 ### With a cool sub-tittle
 
