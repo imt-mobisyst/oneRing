@@ -2,20 +2,20 @@
 marp: true
 theme: slides
 paginate: true
-backgroundImage: url('../style/background.svg')
+backgroundImage: url('../style/background3.svg')
 ---
 <!-- --------------------------------------------------------------- -->
 
-# An Incrediblae Beautifull<br />Presentation Title
+# Decision Under<br />Uncertainty
 
-### With a cool sub-tittle
+### An introduction
 
 <br />
 
-**author.name**
-[@around-there.net](mailto:author.name@around-there.net)
+**Guillaume.Lozenguez**
+[@imt-nord-europe.fr](mailto:guillaume.lozenguez@imt-nord-europe.fr)
 
-![bg](../style/bg-tittle.svg)
+![bg](../style/bg-tittle2.svg)
 
 ---
 <!-- --------------------------------------------------------------- -->
